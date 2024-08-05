@@ -3,7 +3,7 @@
 export function GET(){
     //database logic
     return Response.json({
-        email:"manishabose149@gmail.com",
-        name: "Manisha Bose"
+        name: "Manisha Bose",
+        email:"manishabose149@gmail.com"
     })
 }
